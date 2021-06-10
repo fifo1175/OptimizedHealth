@@ -1,0 +1,7 @@
+March 30th Meeting Notes:
+
+Did an overview of where each of us is at with our pages.
+
+Discussed database connection for each page.
+
+All agreed on next steps to work on, mostly node database connection.

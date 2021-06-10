@@ -1,0 +1,3 @@
+So far we have utilized 3 APIs, built a node server that renders all ejs pages and created a local array that stores users from the registraiton page. 
+Next thing to do is connect the node server to the postGRES database
+Init sql in vs code

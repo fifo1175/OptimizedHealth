@@ -1,0 +1,9 @@
+﻿Team Members: Vignesh, Finbar, Jamal, Evie, Leah
+
+
+Project Idea: OptimizedHealth website
+* Includes BMI, Caloric Intake, sleep recommendations
+* Technologies include HTML, CSS, JS, Node.js, PostgresSQL/MongoDB
+
+
+Idea approved by Venkat

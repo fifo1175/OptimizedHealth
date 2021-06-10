@@ -1,0 +1,7 @@
+Entity relationship model in todays lab that we need to do
+Start working on the JS implination 
+Node next week 
+We need to maintain the Jira board 
+
+Suggestion:
+Everything looks good no suggestions outside of the above
