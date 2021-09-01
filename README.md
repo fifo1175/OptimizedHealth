@@ -1,4 +1,4 @@
-# 3308SP21_015_7
+OptimizedHealth
 Application Description
 Our OptimizedHealth application is an all-in-one stop for users to check up on their mental and physical health. Users will be able to record their bodily health by logging into a designated portal with a username and password. Once inside our application, in the ‘record general health’ section the user will be able to record their caloric intake and expenditure per day, as well as their exercise and sleep minutes. In the ‘record mental health’ section, the user will be able to record their daily mood and compare this to their general health habits to see if they are correlated. In the ‘BMI calculator’ section, the user can input their weight and height to calculate their corresponding BMI. Based on all of these factors, there will be an option for the user to get feedback on their exercise and sleep minutes, and caloric intake. This feedback includes suggesting an increase or decrease in performance in any of these categories, as well as meals that correspond to BMI and caloric intake. On the front end, the OptimizedHealth application will show a user their health habits using HTML or CSS. The UI will be streamlined for both efficiency and simplicity. On the back end, ranges of appropriate sleep and exercise minutes, BMI, caloric intake per weight and height, and meals will be stored using SQL.
 
@@ -13,9 +13,6 @@ Repo Organization:
  The Code folder contains all of the necessary source code needed to run our application. Within the Code folder is a Frontend folder, which contains all of our ejs files, js files, images, css files, database configuration file, passport-local file, and our server.js file.
  The Code folder also contains a Backend folder which contains our database scripts used to create the tables. 
  
- 
- How to run code:
- You may clone this repo and use the Backend scripts to build the database tables in PostgreSQL. We are currently working on getting this application deployed to Heroku and will paste the link here when completed
  
 Heroku Link: https://optimizedhealth.herokuapp.com/
 
