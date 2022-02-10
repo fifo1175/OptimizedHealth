@@ -1,5 +1,4 @@
 # OptimizedHealth
-Full Stack Health Web App
 
 https://optimizedhealth.herokuapp.com/
 
